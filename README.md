@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mai Hassan  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Computer+Science+Student+@+Luxor+University;Passionate+About+Building+APIs+%26+Databases;Always+Learning+New+Technologies+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Computer+Science+Student+@+Luxor+University;)
 # 👩🏻‍💻 About Me
 
 
