@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mai Hassan  
+# 👋 Hi, I'm Mai Hassan, Welcome to my GitHub Profile!  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Back-End+Developer;Computer+Science+Student+@+Luxor+University;)
 # 👩🏻‍💻 About Me
